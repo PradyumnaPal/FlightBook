@@ -1,0 +1,832 @@
+[INFO] [23:54:28.302] **************--------------------------------------**********************
+[INFO] [23:54:28.303] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [23:54:28.303] **************--------------------------------------**********************
+[INFO] [23:54:28.312] Launching Environment as per pre-condition
+[ERROR] [23:54:28.366] java.lang.IllegalStateException: The driver executable does not exist: E:\WS\Selenium\SpiceJet\Drivers\chromedriver.exe
+[INFO] [23:54:28.377] Test case Failed
+[INFO] [23:54:28.656] ---------------- END TEST ---------------------------------
+[INFO] [23:54:28.656] ---------------- END TEST ---------------------------------
+[INFO] [23:54:28.656] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [23:57:57.726] **************--------------------------------------**********************
+[INFO] [23:57:57.726] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [23:57:57.727] **************--------------------------------------**********************
+[INFO] [23:57:57.735] Launching Environment as per pre-condition
+[ERROR] [23:57:59.871] org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 95
+Current browser version is 93.0.4577.82 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.162.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: driver.version: unknown
+remote stacktrace: Backtrace:
+	Ordinal0 [0x009339D3+2505171]
+	Ordinal0 [0x008CAE61+2076257]
+	Ordinal0 [0x007D2498+1057944]
+	Ordinal0 [0x007F0841+1181761]
+	Ordinal0 [0x007EC64B+1164875]
+	Ordinal0 [0x007E9EBF+1154751]
+	Ordinal0 [0x0081A02F+1351727]
+	Ordinal0 [0x00819C9A+1350810]
+	Ordinal0 [0x008158BB+1333435]
+	Ordinal0 [0x007F23E4+1188836]
+	Ordinal0 [0x007F323F+1192511]
+	GetHandleVerifier [0x00ABCA56+1554566]
+	GetHandleVerifier [0x00B64B9C+2243020]
+	GetHandleVerifier [0x009C0D2B+523099]
+	GetHandleVerifier [0x009BFDD0+519168]
+	Ordinal0 [0x008D031D+2097949]
+	Ordinal0 [0x008D43A8+2114472]
+	Ordinal0 [0x008D44E2+2114786]
+	Ordinal0 [0x008DE061+2154593]
+	BaseThreadInitThunk [0x767FFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x776A7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x776A7A6E+238]
+
+[INFO] [23:57:59.878] Test case Failed
+[INFO] [23:58:00.143] ---------------- END TEST ---------------------------------
+[INFO] [23:58:00.143] ---------------- END TEST ---------------------------------
+[INFO] [23:58:00.143] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [23:58:49.225] **************--------------------------------------**********************
+[INFO] [23:58:49.226] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [23:58:49.226] **************--------------------------------------**********************
+[INFO] [23:58:49.235] Launching Environment as per pre-condition
+[ERROR] [23:58:50.640] org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 95
+Current browser version is 93.0.4577.82 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.162.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: driver.version: unknown
+remote stacktrace: Backtrace:
+	Ordinal0 [0x009339D3+2505171]
+	Ordinal0 [0x008CAE61+2076257]
+	Ordinal0 [0x007D2498+1057944]
+	Ordinal0 [0x007F0841+1181761]
+	Ordinal0 [0x007EC64B+1164875]
+	Ordinal0 [0x007E9EBF+1154751]
+	Ordinal0 [0x0081A02F+1351727]
+	Ordinal0 [0x00819C9A+1350810]
+	Ordinal0 [0x008158BB+1333435]
+	Ordinal0 [0x007F23E4+1188836]
+	Ordinal0 [0x007F323F+1192511]
+	GetHandleVerifier [0x00ABCA56+1554566]
+	GetHandleVerifier [0x00B64B9C+2243020]
+	GetHandleVerifier [0x009C0D2B+523099]
+	GetHandleVerifier [0x009BFDD0+519168]
+	Ordinal0 [0x008D031D+2097949]
+	Ordinal0 [0x008D43A8+2114472]
+	Ordinal0 [0x008D44E2+2114786]
+	Ordinal0 [0x008DE061+2154593]
+	BaseThreadInitThunk [0x767FFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x776A7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x776A7A6E+238]
+
+[INFO] [23:58:50.655] Test case Failed
+[INFO] [23:58:50.949] ---------------- END TEST ---------------------------------
+[INFO] [23:58:50.949] ---------------- END TEST ---------------------------------
+[INFO] [23:58:50.949] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [23:59:14.916] **************--------------------------------------**********************
+[INFO] [23:59:14.917] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [23:59:14.917] **************--------------------------------------**********************
+[INFO] [23:59:14.924] Launching Environment as per pre-condition
+[ERROR] [23:59:16.249] org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 95
+Current browser version is 93.0.4577.82 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.162.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: driver.version: unknown
+remote stacktrace: Backtrace:
+	Ordinal0 [0x009339D3+2505171]
+	Ordinal0 [0x008CAE61+2076257]
+	Ordinal0 [0x007D2498+1057944]
+	Ordinal0 [0x007F0841+1181761]
+	Ordinal0 [0x007EC64B+1164875]
+	Ordinal0 [0x007E9EBF+1154751]
+	Ordinal0 [0x0081A02F+1351727]
+	Ordinal0 [0x00819C9A+1350810]
+	Ordinal0 [0x008158BB+1333435]
+	Ordinal0 [0x007F23E4+1188836]
+	Ordinal0 [0x007F323F+1192511]
+	GetHandleVerifier [0x00ABCA56+1554566]
+	GetHandleVerifier [0x00B64B9C+2243020]
+	GetHandleVerifier [0x009C0D2B+523099]
+	GetHandleVerifier [0x009BFDD0+519168]
+	Ordinal0 [0x008D031D+2097949]
+	Ordinal0 [0x008D43A8+2114472]
+	Ordinal0 [0x008D44E2+2114786]
+	Ordinal0 [0x008DE061+2154593]
+	BaseThreadInitThunk [0x767FFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x776A7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x776A7A6E+238]
+
+[INFO] [23:59:16.264] Test case Failed
+[INFO] [23:59:16.498] ---------------- END TEST ---------------------------------
+[INFO] [23:59:16.499] ---------------- END TEST ---------------------------------
+[INFO] [23:59:16.499] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [00:01:32.518] **************--------------------------------------**********************
+[INFO] [00:01:32.519] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [00:01:32.519] **************--------------------------------------**********************
+[INFO] [00:01:32.525] Launching Environment as per pre-condition
+[ERROR] [00:01:33.843] org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 95
+Current browser version is 94.0.4606.54 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.162.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: driver.version: unknown
+remote stacktrace: Backtrace:
+	Ordinal0 [0x009339D3+2505171]
+	Ordinal0 [0x008CAE61+2076257]
+	Ordinal0 [0x007D2498+1057944]
+	Ordinal0 [0x007F0841+1181761]
+	Ordinal0 [0x007EC64B+1164875]
+	Ordinal0 [0x007E9EBF+1154751]
+	Ordinal0 [0x0081A02F+1351727]
+	Ordinal0 [0x00819C9A+1350810]
+	Ordinal0 [0x008158BB+1333435]
+	Ordinal0 [0x007F23E4+1188836]
+	Ordinal0 [0x007F323F+1192511]
+	GetHandleVerifier [0x00ABCA56+1554566]
+	GetHandleVerifier [0x00B64B9C+2243020]
+	GetHandleVerifier [0x009C0D2B+523099]
+	GetHandleVerifier [0x009BFDD0+519168]
+	Ordinal0 [0x008D031D+2097949]
+	Ordinal0 [0x008D43A8+2114472]
+	Ordinal0 [0x008D44E2+2114786]
+	Ordinal0 [0x008DE061+2154593]
+	BaseThreadInitThunk [0x767FFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x776A7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x776A7A6E+238]
+
+[INFO] [00:01:33.856] Test case Failed
+[INFO] [00:01:34.070] ---------------- END TEST ---------------------------------
+[INFO] [00:01:34.071] ---------------- END TEST ---------------------------------
+[INFO] [00:01:34.071] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [00:04:47.392] **************--------------------------------------**********************
+[INFO] [00:04:47.393] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [00:04:47.393] **************--------------------------------------**********************
+[INFO] [00:04:47.399] Launching Environment as per pre-condition
+[INFO] [00:04:50.647] **********Chrome Browser Launched*************
+[INFO] [00:04:50.648] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [00:04:50.821] SetImplicitlyWait >>60
+[INFO] [00:04:50.821] Envionment Launched
+[INFO] [00:04:56.383] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [00:04:56.426] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [00:04:56.442] actualText is :BOOK expected text is: BOOK
+[INFO] [00:04:56.845] LogIn Page :: BOOK tab is selected
+[ERROR] [00:05:57.295] EXCEPTION CAUGHT>>>> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//Span[text()[contains(.,'SpiceClub')]]"}
+  (Session info: chrome=94.0.4606.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.162.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.54, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\pkpal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49728}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8b37034565a1f2613c5952c974fe5628
+*** Element info: {Using=xpath, value=//Span[text()[contains(.,'SpiceClub')]]}
+[INFO] [00:05:57.310] Test case Failed
+[ERROR] [00:05:57.669] TEST CASE FAILED >> >> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//Span[text()[contains(.,'SpiceClub')]]"}
+  (Session info: chrome=94.0.4606.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.162.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.54, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\pkpal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49728}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8b37034565a1f2613c5952c974fe5628
+*** Element info: {Using=xpath, value=//Span[text()[contains(.,'SpiceClub')]]}
+[INFO] [00:05:57.669] Closing Browser
+[INFO] [00:05:58.155] ---------------- END TEST ---------------------------------
+[INFO] [00:05:58.155] ---------------- END TEST ---------------------------------
+[INFO] [00:05:58.155] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [00:11:12.300] **************--------------------------------------**********************
+[INFO] [00:11:12.304] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [00:11:12.305] **************--------------------------------------**********************
+[INFO] [00:12:18.179] Launching Environment as per pre-condition
+[INFO] [00:12:59.786] **********Chrome Browser Launched*************
+[INFO] [00:13:01.958] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [00:14:20.670] SetImplicitlyWait >>60
+[INFO] [00:14:22.785] Envionment Launched
+[INFO] [00:15:07.794] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [00:15:32.802] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [00:15:52.194] actualText is :BOOK expected text is: BOOK
+[INFO] [00:16:24.067] LogIn Page :: BOOK tab is selected
+[INFO] [00:25:16.741] **************--------------------------------------**********************
+[INFO] [00:25:16.743] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [00:25:16.743] **************--------------------------------------**********************
+[INFO] [00:25:25.677] Launching Environment as per pre-condition
+[INFO] [00:25:30.936] **********Chrome Browser Launched*************
+[INFO] [00:25:30.943] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [00:25:33.987] SetImplicitlyWait >>60
+[INFO] [00:25:33.987] Envionment Launched
+[INFO] [00:25:40.606] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [00:25:56.887] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [00:26:20.516] actualText is :BOOK expected text is: BOOK
+[INFO] [00:27:01.859] LogIn Page :: BOOK tab is selected
+[INFO] [00:27:46.179] **************--------------------------------------**********************
+[INFO] [00:27:46.179] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [00:27:46.179] **************--------------------------------------**********************
+[INFO] [00:27:46.187] Launching Environment as per pre-condition
+[INFO] [00:27:47.454] **********Chrome Browser Launched*************
+[INFO] [00:27:47.455] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [00:27:47.617] SetImplicitlyWait >>60
+[INFO] [00:27:47.617] Envionment Launched
+[INFO] [00:27:53.401] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [00:27:53.436] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [00:27:53.467] actualText is :BOOK expected text is: BOOK
+[INFO] [00:27:53.888] LogIn Page :: BOOK tab is selected
+[INFO] [00:28:16.663] Test case Failed
+[INFO] [00:28:23.033] ---------------- END TEST ---------------------------------
+[INFO] [00:28:23.033] ---------------- END TEST ---------------------------------
+[INFO] [00:28:23.033] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [00:34:53.104] **************--------------------------------------**********************
+[INFO] [00:34:53.104] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [00:34:53.105] **************--------------------------------------**********************
+[INFO] [00:34:53.113] Launching Environment as per pre-condition
+[INFO] [00:34:54.402] **********Chrome Browser Launched*************
+[INFO] [00:34:54.402] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [00:34:54.563] SetImplicitlyWait >>60
+[INFO] [00:34:54.563] Envionment Launched
+[INFO] [00:34:58.652] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [00:34:58.688] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [00:34:58.706] actualText is :BOOK expected text is: BOOK
+[INFO] [00:34:59.148] LogIn Page :: BOOK tab is selected
+[INFO] [00:34:59.175] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [00:34:59.198] actualText is : expected text is: SPICECLUB
+[ERROR] [00:34:59.541] LogIn Page>> SPICECLUB text is NOT displayed
+[INFO] [00:34:59.567] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [00:34:59.588] actualText is :SC MEMBER LOGIN expected text is: MEMBER LOGIN
+[ERROR] [00:34:59.920] LogIn Page>> MEMBER LOGIN text is NOT displayed
+[ERROR] [00:36:00.538] EXCEPTION CAUGHT>>>> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()[contains(.,'User ID (Mobile Number):')]]"}
+  (Session info: chrome=94.0.4606.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.162.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.54, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\pkpal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62610}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d2f61eb4cc855e1730a51747e82ea168
+*** Element info: {Using=xpath, value=//*[text()[contains(.,'User ID (Mobile Number):')]]}
+[INFO] [00:36:00.544] Test case Failed
+[ERROR] [00:36:01.116] TEST CASE FAILED >> >> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()[contains(.,'User ID (Mobile Number):')]]"}
+  (Session info: chrome=94.0.4606.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.162.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.54, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\pkpal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62610}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d2f61eb4cc855e1730a51747e82ea168
+*** Element info: {Using=xpath, value=//*[text()[contains(.,'User ID (Mobile Number):')]]}
+[INFO] [00:36:01.117] Closing Browser
+[INFO] [00:36:01.450] ---------------- END TEST ---------------------------------
+[INFO] [00:36:01.451] ---------------- END TEST ---------------------------------
+[INFO] [00:36:01.451] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [22:09:31.711] **************--------------------------------------**********************
+[INFO] [22:09:31.712] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [22:09:31.712] **************--------------------------------------**********************
+[INFO] [22:09:31.723] Launching Environment as per pre-condition
+[INFO] [22:09:34.062] **********Chrome Browser Launched*************
+[INFO] [22:09:34.063] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [22:09:34.257] SetImplicitlyWait >>60
+[INFO] [22:09:34.257] Envionment Launched
+[INFO] [22:09:39.111] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [22:09:39.138] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [22:09:39.157] actualText is :BOOK expected text is: BOOK
+[INFO] [22:09:39.629] LogIn Page :: BOOK tab is selected
+[INFO] [22:09:39.657] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [22:09:39.680] actualText is : expected text is: SPICECLUB
+[ERROR] [22:09:40.054] LogIn Page>> SPICECLUB text is NOT displayed
+[INFO] [22:09:40.079] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [22:09:40.103] actualText is :SC MEMBER LOGIN expected text is: MEMBER LOGIN
+[ERROR] [22:09:40.433] LogIn Page>> MEMBER LOGIN text is NOT displayed
+[INFO] [22:10:18.625] Test case Failed
+[INFO] [22:10:26.102] ---------------- END TEST ---------------------------------
+[INFO] [22:10:26.102] ---------------- END TEST ---------------------------------
+[INFO] [22:10:26.102] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [22:15:30.015] **************--------------------------------------**********************
+[INFO] [22:15:30.016] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [22:15:30.016] **************--------------------------------------**********************
+[INFO] [22:15:30.023] Launching Environment as per pre-condition
+[INFO] [22:15:31.190] **********Chrome Browser Launched*************
+[INFO] [22:15:31.190] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [22:15:31.348] SetImplicitlyWait >>60
+[INFO] [22:15:31.349] Envionment Launched
+[INFO] [22:15:31.900] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [22:16:20.097] Test case Failed
+[INFO] [22:16:35.099] **************--------------------------------------**********************
+[INFO] [22:16:35.100] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [22:16:35.100] **************--------------------------------------**********************
+[INFO] [22:16:35.107] Launching Environment as per pre-condition
+[INFO] [22:16:36.207] **********Chrome Browser Launched*************
+[INFO] [22:16:36.208] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [22:16:36.368] SetImplicitlyWait >>60
+[INFO] [22:16:36.368] Envionment Launched
+[INFO] [22:16:41.368] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [22:16:41.395] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [22:16:41.420] actualText is :BOOK expected text is: BOOK
+[INFO] [22:16:41.862] LogIn Page :: BOOK tab is selected
+[INFO] [22:16:41.886] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [22:16:41.979]  is dispalyed
+[INFO] [22:16:42.344] LogIn Page :: SPICECLUB Image is displayed
+[INFO] [22:16:42.367] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [22:16:42.381] actualText is :SC MEMBER LOGIN expected text is: MEMBER LOGIN
+[ERROR] [22:16:42.685] LogIn Page>> MEMBER LOGIN text is NOT displayed
+[ERROR] [22:17:43.139] EXCEPTION CAUGHT>>>> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()[contains(.,'User ID (Mobile Number):')]]"}
+  (Session info: chrome=94.0.4606.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.162.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.54, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\pkpal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49854}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: edc13459894f17ae2327848594f27e87
+*** Element info: {Using=xpath, value=//*[text()[contains(.,'User ID (Mobile Number):')]]}
+[INFO] [22:17:43.150] Test case Failed
+[ERROR] [22:17:43.517] TEST CASE FAILED >> >> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()[contains(.,'User ID (Mobile Number):')]]"}
+  (Session info: chrome=94.0.4606.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.162.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.54, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\pkpal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49854}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: edc13459894f17ae2327848594f27e87
+*** Element info: {Using=xpath, value=//*[text()[contains(.,'User ID (Mobile Number):')]]}
+[INFO] [22:17:43.518] Closing Browser
+[INFO] [22:17:44.068] ---------------- END TEST ---------------------------------
+[INFO] [22:17:44.068] ---------------- END TEST ---------------------------------
+[INFO] [22:17:44.068] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [22:21:31.051] **************--------------------------------------**********************
+[INFO] [22:21:31.052] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [22:21:31.052] **************--------------------------------------**********************
+[INFO] [22:21:31.057] Launching Environment as per pre-condition
+[INFO] [22:21:32.176] **********Chrome Browser Launched*************
+[INFO] [22:21:32.176] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [22:21:32.344] SetImplicitlyWait >>60
+[INFO] [22:21:32.345] Envionment Launched
+[INFO] [22:21:39.004] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [22:21:39.039] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [22:21:39.059] actualText is :BOOK expected text is: BOOK
+[INFO] [22:21:39.487] LogIn Page :: BOOK tab is selected
+[INFO] [22:21:39.514] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [22:21:39.602]  is dispalyed
+[INFO] [22:21:39.976] LogIn Page :: SPICECLUB Image is displayed
+[INFO] [22:21:40.003] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [22:21:40.026] actualText is :SC MEMBER LOGIN expected text is: MEMBER LOGIN
+[ERROR] [22:21:40.364] LogIn Page>> MEMBER LOGIN text is NOT displayed
+[INFO] [22:21:40.371] Test case Failed
+[ERROR] [22:21:40.631] TEST CASE FAILED >> >> java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
+[INFO] [22:21:40.631] Closing Browser
+[INFO] [22:21:41.093] ---------------- END TEST ---------------------------------
+[INFO] [22:21:41.093] ---------------- END TEST ---------------------------------
+[INFO] [22:21:41.093] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [22:22:28.937] **************--------------------------------------**********************
+[INFO] [22:22:28.938] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [22:22:28.938] **************--------------------------------------**********************
+[INFO] [22:22:28.944] Launching Environment as per pre-condition
+[INFO] [22:22:30.032] **********Chrome Browser Launched*************
+[INFO] [22:22:30.032] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [22:22:30.193] SetImplicitlyWait >>60
+[INFO] [22:22:30.193] Envionment Launched
+[INFO] [22:22:35.989] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [22:22:36.033] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [22:22:36.060] actualText is :BOOK expected text is: BOOK
+[INFO] [22:22:36.452] LogIn Page :: BOOK tab is selected
+[INFO] [22:22:36.473] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [22:22:36.571]  is dispalyed
+[INFO] [22:22:36.932] LogIn Page :: SPICECLUB Image is displayed
+[INFO] [22:22:36.954] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [22:22:36.972] actualText is :SC MEMBER LOGIN expected text is: SC MEMBER LOGIN
+[INFO] [22:22:37.289] LogIn Page :: MEMBER LOGIN text is displayed
+[INFO] [22:22:37.298] Test case Failed
+[ERROR] [22:22:37.581] TEST CASE FAILED >> >> java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
+[INFO] [22:22:37.581] Closing Browser
+[INFO] [22:22:37.986] ---------------- END TEST ---------------------------------
+[INFO] [22:22:37.986] ---------------- END TEST ---------------------------------
+[INFO] [22:22:37.986] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [22:24:23.741] **************--------------------------------------**********************
+[INFO] [22:24:23.742] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [22:24:23.742] **************--------------------------------------**********************
+[INFO] [22:24:32.240] Launching Environment as per pre-condition
+[INFO] [22:24:40.729] **********Chrome Browser Launched*************
+[INFO] [22:24:40.735] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [22:24:44.116] SetImplicitlyWait >>60
+[INFO] [22:24:44.117] Envionment Launched
+[INFO] [22:24:51.892] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [22:24:55.886] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [22:24:59.176] actualText is :BOOK expected text is: BOOK
+[INFO] [22:25:03.182] LogIn Page :: BOOK tab is selected
+[INFO] [22:25:04.825] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [22:25:05.477]  is dispalyed
+[INFO] [22:25:09.448] LogIn Page :: SPICECLUB Image is displayed
+[INFO] [22:25:16.832] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [22:25:25.762] actualText is :SC MEMBER LOGIN expected text is: SC MEMBER LOGIN
+[INFO] [22:25:29.674] LogIn Page :: MEMBER LOGIN text is displayed
+[INFO] [22:25:53.152] Test case Failed
+[ERROR] [22:25:57.124] TEST CASE FAILED >> >> java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
+[INFO] [22:25:57.124] Closing Browser
+[INFO] [22:25:58.432] ---------------- END TEST ---------------------------------
+[INFO] [22:25:58.432] ---------------- END TEST ---------------------------------
+[INFO] [22:25:58.433] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [22:33:49.203] **************--------------------------------------**********************
+[INFO] [22:33:49.204] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [22:33:49.204] **************--------------------------------------**********************
+[INFO] [22:33:49.214] Launching Environment as per pre-condition
+[INFO] [22:33:50.441] **********Chrome Browser Launched*************
+[INFO] [22:33:50.442] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [22:33:50.603] SetImplicitlyWait >>60
+[INFO] [22:33:50.603] Envionment Launched
+[INFO] [22:33:58.871] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [22:33:58.908] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [22:33:58.930] actualText is :BOOK expected text is: BOOK
+[INFO] [22:33:59.335] LogIn Page :: BOOK tab is selected
+[INFO] [22:33:59.363] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [22:33:59.437]  is dispalyed
+[INFO] [22:33:59.811] LogIn Page :: SPICECLUB Image is displayed
+[INFO] [22:33:59.835] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [22:33:59.857] actualText is :SC MEMBER LOGIN expected text is: SC MEMBER LOGIN
+[INFO] [22:34:00.192] LogIn Page :: MEMBER LOGIN text is displayed
+[ERROR] [22:35:00.893] EXCEPTION CAUGHT>>>> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#\/\/\*\[text\(\)\[contains\(\.\,\'E\-MAIL\ ID\'\)\]\]"}
+  (Session info: chrome=94.0.4606.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.162.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.54, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\pkpal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62375}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1e8f63136c6e11a2a7479ee162f03e5b
+*** Element info: {Using=id, value=//*[text()[contains(.,'E-MAIL ID')]]}
+[INFO] [22:35:00.900] Test case Failed
+[ERROR] [22:35:01.504] TEST CASE FAILED >> >> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#\/\/\*\[text\(\)\[contains\(\.\,\'E\-MAIL\ ID\'\)\]\]"}
+  (Session info: chrome=94.0.4606.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.162.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.54, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\pkpal\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62375}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1e8f63136c6e11a2a7479ee162f03e5b
+*** Element info: {Using=id, value=//*[text()[contains(.,'E-MAIL ID')]]}
+[INFO] [22:35:01.504] Closing Browser
+[INFO] [22:35:01.911] ---------------- END TEST ---------------------------------
+[INFO] [22:35:01.911] ---------------- END TEST ---------------------------------
+[INFO] [22:35:01.911] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [22:36:02.565] **************--------------------------------------**********************
+[INFO] [22:36:02.566] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [22:36:02.567] **************--------------------------------------**********************
+[INFO] [22:36:03.853] Launching Environment as per pre-condition
+[INFO] [22:36:09.365] **********Chrome Browser Launched*************
+[INFO] [22:36:09.370] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [22:36:13.619] SetImplicitlyWait >>60
+[INFO] [22:36:13.620] Envionment Launched
+[INFO] [22:36:22.742] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [22:36:28.809] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [22:36:31.504] actualText is :BOOK expected text is: BOOK
+[INFO] [22:36:35.508] LogIn Page :: BOOK tab is selected
+[INFO] [22:36:35.530] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [22:36:36.149]  is dispalyed
+[INFO] [22:36:40.162] LogIn Page :: SPICECLUB Image is displayed
+[INFO] [22:36:40.185] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [22:36:43.409] actualText is :SC MEMBER LOGIN expected text is: SC MEMBER LOGIN
+[INFO] [22:36:47.351] LogIn Page :: MEMBER LOGIN text is displayed
+[INFO] [22:38:43.237] **************--------------------------------------**********************
+[INFO] [22:38:43.237] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [22:38:43.237] **************--------------------------------------**********************
+[INFO] [22:38:43.246] Launching Environment as per pre-condition
+[INFO] [22:38:44.361] **********Chrome Browser Launched*************
+[INFO] [22:38:44.362] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [22:38:44.517] SetImplicitlyWait >>60
+[INFO] [22:38:44.517] Envionment Launched
+[INFO] [22:38:49.195] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [22:38:49.218] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [22:38:49.241] actualText is :BOOK expected text is: BOOK
+[INFO] [22:38:49.657] LogIn Page :: BOOK tab is selected
+[INFO] [22:38:49.683] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [22:38:49.773]  is dispalyed
+[INFO] [22:38:50.147] LogIn Page :: SPICECLUB Image is displayed
+[INFO] [22:38:50.168] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [22:38:50.193] actualText is :SC MEMBER LOGIN expected text is: SC MEMBER LOGIN
+[INFO] [22:38:50.530] LogIn Page :: MEMBER LOGIN text is displayed
+[INFO] [22:38:50.549] Searching locater '//*[text()[contains(.,'E-MAIL ID')]]' and locater type 'lblUserId_xpath'
+[INFO] [22:38:50.564] actualText is :*SC MEMBER ID/ E-MAIL ID : expected text is: SC MEMBER ID/ E-MAIL ID :
+[ERROR] [22:38:50.856] LogIn Page>> USER ID(MOBILE NUMBER): text is NOT displayed
+[INFO] [22:38:50.861] Test case passed
+[INFO] [22:38:50.861] Closing Browser
+[INFO] [22:38:51.259] ---------------- END TEST ---------------------------------
+[INFO] [22:38:51.259] ---------------- END TEST ---------------------------------
+[INFO] [22:38:51.260] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [22:39:20.823] **************--------------------------------------**********************
+[INFO] [22:39:20.824] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [22:39:20.824] **************--------------------------------------**********************
+[INFO] [22:39:20.830] Launching Environment as per pre-condition
+[INFO] [22:39:22.005] **********Chrome Browser Launched*************
+[INFO] [22:39:22.006] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [22:39:22.162] SetImplicitlyWait >>60
+[INFO] [22:39:22.163] Envionment Launched
+[INFO] [22:39:26.580] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [22:39:26.603] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [22:39:26.617] actualText is :BOOK expected text is: BOOK
+[INFO] [22:39:26.942] LogIn Page :: BOOK tab is selected
+[INFO] [22:39:26.955] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [22:39:26.995]  is dispalyed
+[INFO] [22:39:27.295] LogIn Page :: SPICECLUB Image is displayed
+[INFO] [22:39:27.308] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [22:39:27.321] actualText is :SC MEMBER LOGIN expected text is: SC MEMBER LOGIN
+[INFO] [22:39:27.643] LogIn Page :: MEMBER LOGIN text is displayed
+[INFO] [22:39:27.710] Searching locater '//*[text()[contains(.,'E-MAIL ID')]]' and locater type 'lblUserId_xpath'
+[INFO] [22:39:27.770] actualText is :*SC MEMBER ID/ E-MAIL ID : expected text is: SC MEMBER ID/ E-MAIL ID :
+[ERROR] [22:39:28.057] LogIn Page>> USER ID(MOBILE NUMBER): text is NOT displayed
+[INFO] [22:39:28.061] Test case passed
+[INFO] [22:39:28.061] Closing Browser
+[INFO] [22:39:28.483] ---------------- END TEST ---------------------------------
+[INFO] [22:39:28.483] ---------------- END TEST ---------------------------------
+[INFO] [22:39:28.483] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [22:40:51.266] **************--------------------------------------**********************
+[INFO] [22:40:51.268] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [22:40:51.268] **************--------------------------------------**********************
+[INFO] [22:40:52.373] Launching Environment as per pre-condition
+[INFO] [22:40:55.728] **********Chrome Browser Launched*************
+[INFO] [22:40:55.735] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [22:41:06.218] SetImplicitlyWait >>60
+[INFO] [22:41:06.218] Envionment Launched
+[INFO] [22:41:16.582] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [22:41:22.342] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [22:41:24.633] actualText is :BOOK expected text is: BOOK
+[INFO] [22:41:28.508] LogIn Page :: BOOK tab is selected
+[INFO] [22:41:28.530] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [22:41:29.135]  is dispalyed
+[INFO] [22:41:32.904] LogIn Page :: SPICECLUB Image is displayed
+[INFO] [22:41:32.926] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [22:41:37.379] actualText is :SC MEMBER LOGIN expected text is: SC MEMBER LOGIN
+[INFO] [22:41:41.116] LogIn Page :: MEMBER LOGIN text is displayed
+[INFO] [22:42:41.899] Searching locater '//*[text()[contains(.,'E-MAIL ID')]]' and locater type 'lblUserId_xpath'
+[INFO] [22:43:59.882] actualText is :*SC MEMBER ID/ E-MAIL ID : expected text is: SC MEMBER ID/ E-MAIL ID :
+[ERROR] [22:44:20.935] LogIn Page>> USER ID(MOBILE NUMBER): text is NOT displayed
+[INFO] [22:44:39.267] **************--------------------------------------**********************
+[INFO] [22:44:39.267] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [22:44:39.267] **************--------------------------------------**********************
+[INFO] [22:44:39.273] Launching Environment as per pre-condition
+[INFO] [22:44:40.417] **********Chrome Browser Launched*************
+[INFO] [22:44:40.418] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [22:44:40.603] SetImplicitlyWait >>60
+[INFO] [22:44:40.603] Envionment Launched
+[INFO] [22:44:46.289] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [22:44:46.327] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [22:44:46.345] actualText is :BOOK expected text is: BOOK
+[INFO] [22:44:46.754] LogIn Page :: BOOK tab is selected
+[INFO] [22:44:46.781] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [22:44:46.868]  is dispalyed
+[INFO] [22:44:47.278] LogIn Page :: SPICECLUB Image is displayed
+[INFO] [22:44:47.302] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [22:44:47.313] actualText is :SC MEMBER LOGIN expected text is: SC MEMBER LOGIN
+[INFO] [22:44:47.652] LogIn Page :: MEMBER LOGIN text is displayed
+[INFO] [22:44:47.667] Searching locater '//*[text()[contains(.,'E-MAIL ID')]]' and locater type 'lblUserId_xpath'
+[INFO] [22:44:47.677] actualText is :*SC MEMBER ID/ E-MAIL ID : expected text is: *SC MEMBER ID/ E-MAIL ID :
+[INFO] [22:44:47.952] LogIn Page :: USER ID(MOBILE NUMBER): text is displayed
+[INFO] [22:44:47.956] Test case passed
+[INFO] [22:44:47.956] Closing Browser
+[INFO] [22:44:48.343] ---------------- END TEST ---------------------------------
+[INFO] [22:44:48.343] ---------------- END TEST ---------------------------------
+[INFO] [22:44:48.343] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [22:46:04.211] **************--------------------------------------**********************
+[INFO] [22:46:04.212] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [22:46:04.212] **************--------------------------------------**********************
+[INFO] [22:46:04.218] Launching Environment as per pre-condition
+[INFO] [22:46:05.368] **********Chrome Browser Launched*************
+[INFO] [22:46:05.369] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [22:46:05.529] SetImplicitlyWait >>60
+[INFO] [22:46:05.530] Envionment Launched
+[INFO] [22:46:10.476] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [22:46:10.524] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [22:46:10.547] actualText is :BOOK expected text is: BOOK
+[INFO] [22:46:10.921] LogIn Page :: BOOK tab is selected
+[INFO] [22:46:10.938] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [22:46:11.003]  is dispalyed
+[INFO] [22:46:11.385] LogIn Page :: SPICECLUB Image is displayed
+[INFO] [22:46:11.412] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [22:46:11.430] actualText is :SC MEMBER LOGIN expected text is: SC MEMBER LOGIN
+[INFO] [22:46:11.857] LogIn Page :: MEMBER LOGIN text is displayed
+[INFO] [22:46:11.873] Searching locater '//*[text()[contains(.,'E-MAIL ID')]]' and locater type 'lblUserId_xpath'
+[INFO] [22:46:11.889] actualText is :*SC MEMBER ID/ E-MAIL ID : expected text is: *SC MEMBER ID/ E-MAIL ID :
+[INFO] [22:46:12.195] LogIn Page :: USER ID(MOBILE NUMBER): text is displayed
+[INFO] [22:46:12.206] Test case passed
+[INFO] [22:46:12.207] Closing Browser
+[INFO] [22:46:12.564] ---------------- END TEST ---------------------------------
+[INFO] [22:46:12.565] ---------------- END TEST ---------------------------------
+[INFO] [22:46:12.565] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [11:27:04.670] **************--------------------------------------**********************
+[INFO] [11:27:04.672] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [11:27:04.672] **************--------------------------------------**********************
+[INFO] [11:27:04.683] Launching Environment as per pre-condition
+[INFO] [11:27:07.874] **********Chrome Browser Launched*************
+[INFO] [11:27:07.875] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [11:27:08.079] SetImplicitlyWait >>60
+[INFO] [11:27:08.079] Envionment Launched
+[INFO] [11:27:13.307] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [11:27:13.408] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [11:27:13.466] actualText is :BOOK expected text is: BOOK
+[INFO] [11:27:14.099] LogIn Page :: BOOK tab is selected
+[INFO] [11:27:14.144] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [11:27:14.320]  is dispalyed
+[INFO] [11:27:14.974] LogIn Page :: SPICECLUB Image is displayed
+[INFO] [11:27:15.013] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [11:27:15.049] actualText is :SC MEMBER LOGIN expected text is: SC MEMBER LOGIN
+[INFO] [11:27:15.527] LogIn Page :: MEMBER LOGIN text is displayed
+[INFO] [11:27:15.551] Searching locater '//*[text()[contains(.,'E-MAIL ID')]]' and locater type 'lblUserId_xpath'
+[INFO] [11:27:15.572] actualText is :*SC MEMBER ID/ E-MAIL ID : expected text is: *SC MEMBER ID/ E-MAIL ID :
+[INFO] [11:27:16.051] LogIn Page :: USER ID(MOBILE NUMBER): text is displayed
+[INFO] [11:27:16.061] Test case passed
+[INFO] [11:27:16.061] Closing Browser
+[INFO] [11:27:16.761] ---------------- END TEST ---------------------------------
+[INFO] [11:27:16.762] ---------------- END TEST ---------------------------------
+[INFO] [11:27:16.762] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [18:02:48.663] **************--------------------------------------**********************
+[INFO] [18:02:48.664] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [18:02:48.664] **************--------------------------------------**********************
+[INFO] [18:02:48.668] Launching Environment as per pre-condition
+[INFO] [18:02:50.568] **********Chrome Browser Launched*************
+[INFO] [18:02:50.568] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [18:02:50.729] SetImplicitlyWait >>60
+[INFO] [18:02:50.730] Envionment Launched
+[INFO] [18:02:55.994] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [18:02:56.010] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [18:02:56.022] actualText is :BOOK expected text is: BOOK
+[INFO] [18:02:56.302] LogIn Page :: BOOK tab is selected
+[INFO] [18:02:56.314] Searching locater '//img[@src='images/spicejet/red_sclogo.png']' and locater type 'lblSpiceClub_xpath'
+[INFO] [18:02:56.349]  is dispalyed
+[INFO] [18:02:56.602] LogIn Page :: SPICECLUB Image is displayed
+[INFO] [18:02:56.615] Searching locater '//div[text()[contains(.,'Member Login')]]' and locater type 'lblMemberLogin_xpath'
+[INFO] [18:02:56.624] actualText is :SC MEMBER LOGIN expected text is: SC MEMBER LOGIN
+[INFO] [18:02:56.862] LogIn Page :: MEMBER LOGIN text is displayed
+[INFO] [18:02:56.875] Searching locater '//*[text()[contains(.,'E-MAIL ID')]]' and locater type 'lblUserId_xpath'
+[INFO] [18:02:56.887] actualText is :*SC MEMBER ID/ E-MAIL ID : expected text is: *SC MEMBER ID/ E-MAIL ID :
+[INFO] [18:02:57.148] LogIn Page :: USER ID(MOBILE NUMBER): text is displayed
+[INFO] [18:02:57.154] Test case passed
+[INFO] [18:02:57.155] Closing Browser
+[INFO] [18:02:57.577] ---------------- END TEST ---------------------------------
+[INFO] [18:02:57.578] ---------------- END TEST ---------------------------------
+[INFO] [18:02:57.578] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [12:18:36.570] **************--------------------------------------**********************
+[INFO] [12:18:36.571] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [12:18:36.571] **************--------------------------------------**********************
+[INFO] [12:18:36.580] Launching Environment as per pre-condition
+[INFO] [12:18:37.444] **************--------------------------------------**********************
+[INFO] [12:18:37.444] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [12:18:37.444] **************--------------------------------------**********************
+[INFO] [12:18:37.454] Launching Environment as per pre-condition
+[ERROR] [12:18:39.546] org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 93
+Current browser version is 97.0.4692.99 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.101.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: driver.version: unknown
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00D7D403+2479107]
+	Ordinal0 [0x00D17D51+2063697]
+	Ordinal0 [0x00C220C8+1056968]
+	Ordinal0 [0x00C4043A+1180730]
+	Ordinal0 [0x00C3C355+1164117]
+	Ordinal0 [0x00C39B7F+1153919]
+	Ordinal0 [0x00C69CBF+1350847]
+	Ordinal0 [0x00C6992A+1349930]
+	Ordinal0 [0x00C6583B+1333307]
+	Ordinal0 [0x00C41F94+1187732]
+	Ordinal0 [0x00C42DE9+1191401]
+	GetHandleVerifier [0x00EFF3F6+1531734]
+	GetHandleVerifier [0x00FAE9AE+2249998]
+	GetHandleVerifier [0x00E039AB+501003]
+	GetHandleVerifier [0x00E02A29+497033]
+	Ordinal0 [0x00D1D11D+2085149]
+	Ordinal0 [0x00D211C8+2101704]
+	Ordinal0 [0x00D21302+2102018]
+	Ordinal0 [0x00D2AA71+2140785]
+	BaseThreadInitThunk [0x75E96739+25]
+	RtlGetFullPathName_UEx [0x774E8AFF+1215]
+	RtlGetFullPathName_UEx [0x774E8ACD+1165]
+
+[INFO] [12:18:39.580] Test case Failed
+[ERROR] [12:18:39.583] org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 93
+Current browser version is 97.0.4692.99 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.101.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: driver.version: unknown
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00D7D403+2479107]
+	Ordinal0 [0x00D17D51+2063697]
+	Ordinal0 [0x00C220C8+1056968]
+	Ordinal0 [0x00C4043A+1180730]
+	Ordinal0 [0x00C3C355+1164117]
+	Ordinal0 [0x00C39B7F+1153919]
+	Ordinal0 [0x00C69CBF+1350847]
+	Ordinal0 [0x00C6992A+1349930]
+	Ordinal0 [0x00C6583B+1333307]
+	Ordinal0 [0x00C41F94+1187732]
+	Ordinal0 [0x00C42DE9+1191401]
+	GetHandleVerifier [0x00EFF3F6+1531734]
+	GetHandleVerifier [0x00FAE9AE+2249998]
+	GetHandleVerifier [0x00E039AB+501003]
+	GetHandleVerifier [0x00E02A29+497033]
+	Ordinal0 [0x00D1D11D+2085149]
+	Ordinal0 [0x00D211C8+2101704]
+	Ordinal0 [0x00D21302+2102018]
+	Ordinal0 [0x00D2AA71+2140785]
+	BaseThreadInitThunk [0x75E96739+25]
+	RtlGetFullPathName_UEx [0x774E8AFF+1215]
+	RtlGetFullPathName_UEx [0x774E8ACD+1165]
+
+[INFO] [12:18:39.612] Test case Failed
+[INFO] [12:18:39.935] ---------------- END TEST ---------------------------------
+[INFO] [12:18:39.935] ---------------- END TEST ---------------------------------
+[INFO] [12:18:39.935] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [12:18:39.938] ---------------- END TEST ---------------------------------
+[INFO] [12:18:39.939] ---------------- END TEST ---------------------------------
+[INFO] [12:18:39.939] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [18:22:44.434] **************--------------------------------------**********************
+[INFO] [18:22:44.436] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [18:22:44.436] **************--------------------------------------**********************
+[INFO] [18:22:44.445] Launching Environment as per pre-condition
+[ERROR] [18:22:47.511] org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 93
+Current browser version is 119.0.6045.200 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WINDOWS10', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: driver.version: unknown
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0071D403+2479107]
+	Ordinal0 [0x006B7D51+2063697]
+	Ordinal0 [0x005C20C8+1056968]
+	Ordinal0 [0x005E043A+1180730]
+	Ordinal0 [0x005DC355+1164117]
+	Ordinal0 [0x005D9B7F+1153919]
+	Ordinal0 [0x00609CBF+1350847]
+	Ordinal0 [0x0060992A+1349930]
+	Ordinal0 [0x0060583B+1333307]
+	Ordinal0 [0x005E1F94+1187732]
+	Ordinal0 [0x005E2DE9+1191401]
+	GetHandleVerifier [0x0089F3F6+1531734]
+	GetHandleVerifier [0x0094E9AE+2249998]
+	GetHandleVerifier [0x007A39AB+501003]
+	GetHandleVerifier [0x007A2A29+497033]
+	Ordinal0 [0x006BD11D+2085149]
+	Ordinal0 [0x006C11C8+2101704]
+	Ordinal0 [0x006C1302+2102018]
+	Ordinal0 [0x006CAA71+2140785]
+	BaseThreadInitThunk [0x75CE7BA9+25]
+	RtlInitializeExceptionChain [0x7772BD2B+107]
+	RtlClearBits [0x7772BCAF+191]
+
+[INFO] [18:22:47.528] Test case Failed
+[INFO] [18:22:47.808] ---------------- END TEST ---------------------------------
+[INFO] [18:22:47.808] ---------------- END TEST ---------------------------------
+[INFO] [18:22:47.808] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [18:30:16.526] **************--------------------------------------**********************
+[INFO] [18:30:16.528] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [18:30:16.528] **************--------------------------------------**********************
+[INFO] [18:30:16.556] Launching Environment as per pre-condition
+[INFO] [18:30:20.777] **********Chrome Browser Launched*************
+[INFO] [18:30:20.779] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [18:30:21.069] SetImplicitlyWait >>60
+[INFO] [18:30:21.070] Envionment Launched
+[INFO] [18:30:29.921] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [18:30:30.001] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [18:30:30.067] actualText is :BOOK expected text is: BOOK
+[INFO] [18:30:31.208] LogIn Page :: BOOK tab is selected
+[INFO] [18:32:22.983] **************--------------------------------------**********************
+[INFO] [18:32:22.984] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [18:32:22.984] **************--------------------------------------**********************
+[INFO] [18:32:22.993] Launching Environment as per pre-condition
+[INFO] [18:32:25.227] **********Chrome Browser Launched*************
+[INFO] [18:32:25.228] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [18:32:25.416] SetImplicitlyWait >>60
+[INFO] [18:32:25.416] Envionment Launched
+[INFO] [18:32:32.622] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [18:32:32.749] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [18:32:32.795] actualText is :BOOK expected text is: BOOK
+[INFO] [18:32:33.978] LogIn Page :: BOOK tab is selected
+[INFO] [18:32:33.991] Test case passed
+[INFO] [18:32:33.991] Closing Browser
+[INFO] [18:32:34.748] ---------------- END TEST ---------------------------------
+[INFO] [18:32:34.748] ---------------- END TEST ---------------------------------
+[INFO] [18:32:34.748] ---------------- (:)(:)(:) ---------------------------------
+[INFO] [18:40:58.184] **************--------------------------------------**********************
+[INFO] [18:40:58.185] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [18:40:58.185] **************--------------------------------------**********************
+[INFO] [18:40:58.209] Launching Environment as per pre-condition
+[INFO] [18:41:01.042] **********Chrome Browser Launched*************
+[INFO] [18:41:01.044] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [18:41:01.264] SetImplicitlyWait >>60
+[INFO] [18:41:01.265] Envionment Launched
+[INFO] [18:41:23.026] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [18:56:00.959] **************--------------------------------------**********************
+[INFO] [18:56:00.960] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [18:56:00.960] **************--------------------------------------**********************
+[INFO] [18:56:00.972] Launching Environment as per pre-condition
+[INFO] [18:56:03.304] **********Chrome Browser Launched*************
+[INFO] [18:56:03.305] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [18:56:03.513] SetImplicitlyWait >>60
+[INFO] [18:56:03.514] Envionment Launched
+[INFO] [18:56:10.101] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [18:56:10.194] Searching locater '//*[@id='header-book']' and locater type 'tabBook_xpath'
+[INFO] [18:56:10.236] actualText is :BOOK expected text is: BOOK
+[INFO] [18:56:11.554] LogIn Page :: BOOK tab is selected
+[INFO] [18:56:11.565] Test case passed
+[INFO] [18:56:11.565] Closing Browser
+[INFO] [18:56:11.807] **************--------------------------------------**********************
+[INFO] [18:56:11.807] ###########################        ATS001_SpiceJet_VerifyLogInPage started     ###########################
+[INFO] [18:56:11.807] **************--------------------------------------**********************
+[INFO] [18:56:11.812] Launching Environment as per pre-condition
+[INFO] [18:56:13.374] **********Chrome Browser Launched*************
+[INFO] [18:56:13.374] Launching Browser :: Chrome Browser Launched successfully
+[INFO] [18:56:13.549] SetImplicitlyWait >>60
+[INFO] [18:56:13.549] Envionment Launched
+[INFO] [18:56:21.064] Navigate to URL :: https://book.spicejet.com/Login.aspx
+[INFO] [18:56:22.288] LogIn Page :: Book Flight text is displayed
+[INFO] [18:56:22.290] Test case passed
+[INFO] [18:56:22.290] Closing Browser
+[INFO] [18:56:23.031] ---------------- END TEST ---------------------------------
+[INFO] [18:56:23.031] ---------------- END TEST ---------------------------------
+[INFO] [18:56:23.031] ---------------- (:)(:)(:) ---------------------------------

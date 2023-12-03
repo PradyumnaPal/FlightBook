@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmokeSuite" verbose="4">
+
+	<test name="CSA Test Flows">
+		<classes>
+			<!-- <class name="com.dish.csa.testflow.ReportsIntialised" /> -->
+
+			<class name="com.spicejet.bookflight.CreateHeadoffice.ATS001_SpiceJet_VerifyLogInPage" />
+			<class name="com.spicejet.bookflight.CreateHeadoffice.ATS002_SpiceJet_VerifyLogInPage" />
+
+		</classes>
+	</test>
+
+</suite> <!-- SmokeSuite -->

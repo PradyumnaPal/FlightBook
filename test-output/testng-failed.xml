@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SmokeSuite]" guice-stage="DEVELOPMENT" verbose="4">
+  <test thread-count="5" name="CSA Test Flows(failed)" verbose="4">
+    <classes>
+      <class name="com.spicejet.bookflight.CreateHeadoffice.ATS001_SpiceJet_VerifyLogInPage">
+        <methods>
+          <include name="FlushReport"/>
+          <include name="VerifyLogInPage"/>
+          <include name="setExcelStatus"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.spicejet.bookflight.CreateHeadoffice.ATS001_SpiceJet_VerifyLogInPage -->
+    </classes>
+  </test> <!-- CSA Test Flows(failed) -->
+</suite> <!-- Failed suite [SmokeSuite] -->

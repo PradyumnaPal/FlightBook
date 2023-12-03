@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-03T18:56:00 IST" name="SmokeSuite" finished-at="2023-12-03T18:56:23 IST" duration-ms="22514">
+    <groups>
+    </groups>
+    <test started-at="2023-12-03T18:56:00 IST" name="CSA Test Flows" finished-at="2023-12-03T18:56:23 IST" duration-ms="22514">
+      <class name="com.spicejet.bookflight.CreateHeadoffice.ATS002_SpiceJet_VerifyLogInPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.spicejet.bookflight.CreateHeadoffice.ATS002_SpiceJet_VerifyLogInPage@387a8303]" started-at="2023-12-03T18:56:11 IST" name="setUp" finished-at="2023-12-03T18:56:11 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyLogInPage()[pri:0, instance:com.spicejet.bookflight.CreateHeadoffice.ATS002_SpiceJet_VerifyLogInPage@387a8303]" started-at="2023-12-03T18:56:11 IST" name="VerifyLogInPage" finished-at="2023-12-03T18:56:22 IST" duration-ms="10481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogInPage -->
+        <test-method is-config="true" signature="setExcelStatus(org.testng.ITestResult)[pri:0, instance:com.spicejet.bookflight.CreateHeadoffice.ATS002_SpiceJet_VerifyLogInPage@387a8303]" started-at="2023-12-03T18:56:22 IST" name="setExcelStatus" finished-at="2023-12-03T18:56:22 IST" duration-ms="255" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyLogInPage status=SUCCESS method=ATS002_SpiceJet_VerifyLogInPage.VerifyLogInPage()[pri:0, instance:com.spicejet.bookflight.CreateHeadoffice.ATS002_SpiceJet_VerifyLogInPage@387a8303] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExcelStatus -->
+      </class> <!-- com.spicejet.bookflight.CreateHeadoffice.ATS002_SpiceJet_VerifyLogInPage -->
+      <class name="com.spicejet.bookflight.CreateHeadoffice.ATS001_SpiceJet_VerifyLogInPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.spicejet.bookflight.CreateHeadoffice.ATS001_SpiceJet_VerifyLogInPage@1b1cfb87]" started-at="2023-12-03T18:56:00 IST" name="setUp" finished-at="2023-12-03T18:56:00 IST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyLogInPage()[pri:0, instance:com.spicejet.bookflight.CreateHeadoffice.ATS001_SpiceJet_VerifyLogInPage@1b1cfb87]" started-at="2023-12-03T18:56:00 IST" name="VerifyLogInPage" finished-at="2023-12-03T18:56:11 IST" duration-ms="10593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogInPage -->
+        <test-method is-config="true" signature="setExcelStatus(org.testng.ITestResult)[pri:0, instance:com.spicejet.bookflight.CreateHeadoffice.ATS001_SpiceJet_VerifyLogInPage@1b1cfb87]" started-at="2023-12-03T18:56:11 IST" name="setExcelStatus" finished-at="2023-12-03T18:56:11 IST" duration-ms="237" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyLogInPage status=SUCCESS method=ATS001_SpiceJet_VerifyLogInPage.VerifyLogInPage()[pri:0, instance:com.spicejet.bookflight.CreateHeadoffice.ATS001_SpiceJet_VerifyLogInPage@1b1cfb87] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExcelStatus -->
+        <test-method is-config="true" signature="FlushReport()[pri:0, instance:com.spicejet.bookflight.CreateHeadoffice.ATS001_SpiceJet_VerifyLogInPage@1b1cfb87]" started-at="2023-12-03T18:56:22 IST" name="FlushReport" finished-at="2023-12-03T18:56:23 IST" duration-ms="486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlushReport -->
+      </class> <!-- com.spicejet.bookflight.CreateHeadoffice.ATS001_SpiceJet_VerifyLogInPage -->
+    </test> <!-- CSA Test Flows -->
+  </suite> <!-- SmokeSuite -->
+</testng-results>
